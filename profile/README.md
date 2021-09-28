@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/86639283?s=200&v=4" align="left" style="border-radius:15px" height="175px" width="175px">
+<img src="https://avatars.githubusercontent.com/u/86639283?s=200&v=4" align="left" border-radius="15px" height="175px" width="175px">
 
 # emzjs 
 
