@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" align="center" height="105px" width="105px">
 <!-- align="center" -->
 <div align="center">
+<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" height="45px" width="45px">
 
 # emzjs 
 
