@@ -1,5 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" align="left" left="15px" height="175px" width="175px">
+<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" align="center" left="15px" height="175px" width="175px">
 
 # emzjs 
 
