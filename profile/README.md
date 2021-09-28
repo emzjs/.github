@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/banner.png" height="45px">
   
-## emzjs
+## emz.js
   
 Welcome to [emzjs](https://npmjs.com/emz) official Github Organization !
 </div>
