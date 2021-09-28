@@ -1,6 +1,6 @@
 <!-- align="center" -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/banner.png" height="25px">
+<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/banner.png" height="45px">
   
 -------
   
