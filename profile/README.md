@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" align="center" height="145px" width="145px">
+<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" align="center" height="105px" width="105px">
 <!-- align="center" -->
 <div align="center">
 
