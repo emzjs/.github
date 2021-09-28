@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" align="right" height="275px" width="275px">
+<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png" align="right" right="15px" height="175px" width="175px">
 
 # emzjs 
 
