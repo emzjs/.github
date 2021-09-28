@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png"  height="175px" width="175px"></center>
+<img src="https://raw.githubusercontent.com/emzjs/.github/main/profile/profile.png"  height="145px" width="145px"></center>
 <!-- align="center" -->
   
 # emzjs 
