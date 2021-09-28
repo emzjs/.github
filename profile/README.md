@@ -1,5 +1,5 @@
 
-<img src="./profile.png" align="right" border="15px" height="175px" width="175px">
+<img src="./profile.png" align="left" border="15px" height="175px" width="175px">
 
 # emzjs 
 
